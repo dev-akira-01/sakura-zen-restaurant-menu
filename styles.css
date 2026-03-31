@@ -1,0 +1,26 @@
+.heading {
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.heading p {
+    margin-top: 3px;
+    font-style: italic;
+}
+
+body {
+    background-image: url(./Assets/background.jpg);
+    background: cover;
+}
+
+.menu{
+    width: 75%;
+    height: 75%;
+    max-width: 500px;
+    background-color:burlywood;
+    margin-right: auto;
+    margin-left: auto;
+}

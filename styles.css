@@ -54,3 +54,9 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+
+footer {
+    text-align: center;
+    padding-bottom: 15px;
+}
+

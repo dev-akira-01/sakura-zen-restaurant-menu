@@ -29,12 +29,12 @@ body {
     display: inline-block;
 }
 
-#flavor{
-    width: 50%;
+.flavor{
+    width: 75%;
     text-align: left;
 }
 
-#price{
-    width: 50%;
+.price{
+    width: 25%;
     text-align: right;
 }

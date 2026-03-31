@@ -79,3 +79,7 @@ hr {
     max-width: 80%;
     color: brown;
 }
+
+.sushi_head, .ramen_head{
+    font-family:Arial, Helvetica, sans-serif;
+}

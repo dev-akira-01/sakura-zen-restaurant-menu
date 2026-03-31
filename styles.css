@@ -75,3 +75,8 @@ footer {
 .row_head_name, .row_head_price{
     font-weight: bold;
 }
+
+hr {
+    max-width: 80%;
+    color: brown;
+}

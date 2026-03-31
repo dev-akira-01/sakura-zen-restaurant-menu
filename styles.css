@@ -93,14 +93,22 @@ a:link {
 }
 
 a:visited{
-    color:brown;
+    color: blue;
 }
 
 a:hover{
-    color: blue;
+    color: brown;
 }
 
 a:active{
     color:aliceblue;
 }
 
+figure{
+    text-align: center;
+}
+
+figure{
+    margin-bottom: -7px;
+    padding-bottom: 0px;
+}

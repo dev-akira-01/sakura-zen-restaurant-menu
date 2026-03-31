@@ -25,16 +25,22 @@ body {
     margin-left: auto;
 }
 
-.ramen_head p{
+.ramen_head p {
     display: inline-block;
 }
 
-.flavor{
-    width: 75%;
+.flavor, .sushi{
+    width: 50%;
     text-align: left;
 }
 
 .price{
-    width: 25%;
+    width: 50%;
     text-align: right;
+}
+
+.ramen_sect {
+    width: 80%;          
+    margin-left: auto;    
+    margin-right: auto; 
 }

@@ -39,10 +39,14 @@ body {
 
 .ramen_head p {
     display: inline-block;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .sushi_head p{
     display: inline-block;
+     margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .flavor, .sushi{
